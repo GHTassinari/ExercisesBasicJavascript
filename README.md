@@ -1,6 +1,6 @@
 # ExercisesBasicJavascript
 
-These are some basic Javascripts exercises, that I have to hand over at the Rocketseat Explorer course.
+These are some basic Javascripts exercises, that I have to had over at the Rocketseat Explorer course.
 
 Includes some basic mathematical operations and verifying the type, or the value, of the variable.
 
